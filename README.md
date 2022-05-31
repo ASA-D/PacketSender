@@ -76,8 +76,8 @@ Packet Senderの公式リリースは、[PacketSender.com](http://packetsender.c
 <!--
 Not sure when this will be back.
 
-## Mobile Apps
-The Packet Sender mobile editions are fully native, contain bare minimum permissions, and collects no data. This is software that respsects you. Thank you for supporting this effort.
+## モバイルアプリ
+packet Senderのモバイル版は、完全ネイティブで、必要最低限の機能しか持っておらず、データを収集することはありません。 This is software that respsects you. Thank you for supporting this effort.
 
 
 ### Android Mobile App
