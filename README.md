@@ -1,14 +1,14 @@
-# Introduction
+# はじめに
 
 ![Packet Sender Logo](screenshots/packetsender_banner.png)
 
 [![Downloads](https://img.shields.io/github/downloads/dannagle/PacketSender/total.svg)](https://packetsender.com/download)
 
-Packet Sender is an open source utility to allow sending and receiving TCP, UDP, and SSL (encrypted TCP) packets as well as HTTP/HTTPS requests and panel generation. The mainline branch officially supports Windows, Mac, and Desktop Linux (with Qt). Other places may recompile and redistribute Packet Sender. Packet Sender is free and licensed GPL v2 or later. It can be used for both commercial and personal use. If you find the app useful, please consider donating/sponsoring so development may continue.
+Packet Senderは、TCP、UDP、SSL（暗号化TCP）パケットの送受信や、HTTP/HTTPSリクエスト、パネル生成を可能にするオープンソースユーティリティです。 メインラインブランチは、Windows、Mac、Desktop Linux (Qt付き)を公式にサポートしています。 他の場所では、Packet Senderを再コンパイルし、再配布することができます。Packet Senderはライセンスフリーであり、GPL v2またはそれ以降のライセンスです。商用・個人用を問わず使用することができます。もしこのアプリが有用であるとお考えの場合は、開発を継続するために寄付/援助のご検討をお願いします。
 
 
 
-# Table Of Contents
+# 目次
 * [Sponsors](#sponsors)
   * Visit [IWL.com](https://www.iwl.com/)
   * Visit [NagleCode.com](https://dannagle.com/)
@@ -34,23 +34,23 @@ Packet Sender is an open source utility to allow sending and receiving TCP, UDP,
 
 
 <a id="sponsors"></a>
-## Sponsors
+## スポンサー一覧
 
-Packet Sender would like to thank the following sponsors.
+Packet Senderは、以下のスポンサーに感謝いたします。
 
 [![IWL](screenshots/iwl_logo.png)](https://www.iwl.com/)
-<br>IWL is a California company creating computer networking products.
+<br>IWL社は、アメリカ合衆国カリフォルニア州にあるコンピューター・ネットワーク製品を開発・提供している企業です。
 <br><br><br>
 
 [![NagleCode](screenshots/naglecode-logo400.png)](https://dannagle.com)
-<br>NagleCode is a software publisher and development studio. 
+<br>NagleCodeは、ソフトウェアの開発・販売をしている企業です。
 <br><br><br>
 
 [![JetBrains](screenshots/JetBrains_Logo200.png)](https://www.jetbrains.com/?from=PacketSender)
-<br>JetBrains provides world-class programming tools to help speed development.
+<br>JetBrainsは、世界最高水準の優れたコーディングツールを提供し、開発にかかる時間の短縮を支援しています。
 <br><br><br>
 
-[Would you like your name/logo listed here?](https://github.com/sponsors/dannagle)
+[お名前やロゴの掲載を希望されますか？](https://github.com/sponsors/dannagle)
 
 
 
