@@ -65,10 +65,10 @@ Packet Senderは、以下のスポンサーに感謝いたします。
 *NOTE:* Try (temporarily) disabling your firewall if having problems in Windows.
 
 <a id="downloads"></a>
-# Downloads
+# 各種ダウンロード
 
-## Desktop Download
-Official releases of Packet Sender can be downloaded at  [PacketSender.com](http://packetsender.com/download). Some places redistribute Packet Sender.
+## デスクトップ用ダウンロード
+Packet Senderの公式リリースは、[PacketSender.com](http://packetsender.com/download)でダウンロードすることができます。Packet Senderを再配布しているところもあります。
 
 ![Windows Logo](screenshots/winlogo150.png) ![Mac Logo](screenshots/maclogo150.png) ![Linux Logo](screenshots/Tux150.png)
 
